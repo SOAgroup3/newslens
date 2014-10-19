@@ -14,4 +14,6 @@ describe 'the_newslens_test' do
       x['date'].wont_be_nil
     end
   end
+  aa
+
 end
